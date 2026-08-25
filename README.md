@@ -57,10 +57,13 @@ Identifies Indian bird species from audio recordings using a CNN trained on mel-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevshriDamle&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=DevshriDamle&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DevshriDamle&show_icons=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevshriDamle&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevshriDamle&layout=compact" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DevshriDamle" alt="GitHub Streak"/>
 </p>
