@@ -7,7 +7,7 @@ Final-year B.Tech student in Artificial Intelligence & Data Science | Building e
 <p align="center">
   <a href="https://docs.google.com/document/d/1wrhZrjGW6CI4rRmHKiWp4yFiJMcHijoo/edit?usp=sharing&ouid=103361681917531407009&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Resume-View-1F3864?style=flat-square" alt="Resume"/></a>
   <a href="www.linkedin.com/in/devshri-damle-3aa9082b9"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:devshridamle@gmail.com "><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:devshridamle@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
