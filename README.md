@@ -53,17 +53,3 @@ A full-stack platform connecting people through problems, skills, and expertise.
 Identifies Indian bird species from audio recordings using a CNN trained on mel-spectrogram features, achieving 89.1% ± 4.5% accuracy. Includes live microphone recording, GPS-based GeoMapping, and confidence thresholding to filter unreliable predictions.
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-master-rkothari.vercel.app/api?username=DevshriDamle&show_icons=true" alt="GitHub Stats" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-master-rkothari.vercel.app/api/top-langs/?username=DevshriDamle&layout=compact" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DevshriDamle" alt="GitHub Streak" height="165"/>
-</p>
